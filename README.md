@@ -1,2 +1,1 @@
-# myText
-Swift使用练习
+# Swift use exercises
